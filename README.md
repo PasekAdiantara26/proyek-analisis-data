@@ -6,7 +6,7 @@ Repositori ini berisi analisis data transaksi dari Olist E-Commerce untuk mengev
 - `dashboard/dashboard.py`: Skrip utama aplikasi dashboard interaktif berbasis Streamlit.
 - `dashboard/main_data.csv`: Dataset hasil pembersihan dan penggabungan yang digunakan sebagai sumber data dashboard.
 - `data/`: Kumpulan berkas dataset mentah Olist dalam format CSV.
-- `notebook.ipynb`: Jupyter Notebook yang memuat seluruh proses analisis mulai dari *Data Wrangling* hingga *Conclusion*.
+- `Proyek_Analisis_Data.ipynb`: Jupyter Notebook yang memuat seluruh proses analisis mulai dari *Data Wrangling* hingga *Conclusion*.
 - `requirements.txt`: Daftar pustaka Python yang diperlukan untuk menjalankan proyek.
 - `url.txt`: Berkas teks yang berisi tautan aktif hasil deployment dashboard di Streamlit Community Cloud.
 
